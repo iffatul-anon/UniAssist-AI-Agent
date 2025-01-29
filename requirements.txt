@@ -1,0 +1,11 @@
+phidata
+groq
+python_dotenv
+PyMuPDF
+duckduckgo-search
+beautifulsoup4
+requests
+streamlit
+googlesearch-python 
+pycountry
+sqlalchemy
