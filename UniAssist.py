@@ -244,7 +244,7 @@ def main():
         st.session_state.chat_history = conversation_history
 
     # Fixed path to the PDF file (ensure this path is correct)
-    pdf_path = "/Users/md.iffatulislamanon/Desktop/test7/DIU.pdf"
+    pdf_path = "DIU.pdf"
     # Extract text from the fixed PDF
     pdf_data = extract_text_from_pdf(pdf_path)
 

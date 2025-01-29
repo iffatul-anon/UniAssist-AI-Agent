@@ -49,12 +49,12 @@ It leverages AI models and various tools to deliver relevant and structured info
 
 2. **Install Dependencies**
    ```sh
-   pip install streamlit phi fitz python-dotenv
+   pip install -r requirements.txt
    ```
 
 3. **Run the Application**
    ```sh
-   streamlit run uniassist.py
+   streamlit run UniAssist.py
    ```
 
 ## Functionality Breakdown
