@@ -1,0 +1,44 @@
+[
+    {
+        "role": "user",
+        "message": "hi"
+    },
+    {
+        "role": "assistant",
+        "message": "Hello! It's nice to meet you. I can assist you with any questions or information you need about Daffodil International University. How can I help you today?"
+    },
+    {
+        "role": "user",
+        "message": "I face a issue with my course registration. How should I solve this?"
+    },
+    {
+        "role": "assistant",
+        "message":"You can direct the student to the registration portal to recheck their entries. If the issue persists, please contact the Mentor. Should I log this issue for further follow-up?"
+    },
+    {
+        "role": "user",
+        "message": "Check the clearance  of student ID: 221-35-1065"
+    },
+    {
+        "role": "assistant",
+        "message": "Here is the clearance status for Student ID: 221-35-1065: Accounts Office: Clearance Done"
+    },
+    {
+        "role": "user",
+        "message": "Check the scholarship application status for student ID: 221-35-1065"
+    },
+    {
+        "role": "assistant",
+        "message": "Heres the scholarship application status for Student ID: 20250123 \n \n  Scholarship Type: Merit-based \n \n Amount Waived: 50% of tuition fees (BDT 25,000) "
+                    
+    },
+    {
+        "role": "user",
+        "message": "I want to report harassment. What should I do first?"
+    },
+    {
+        "role": "assistant",
+        "message": "Here are the immediate steps to handle a harassment report: Ensure the students safety: If the student feels unsafe, assist them in seeking immediate support from campus security or a trusted faculty member. Document the report: Collect detailed information, including the nature of the harassment, involved individuals, and any evidence (e.g., messages, screenshots). Confidentiality: Ensure that the student understands that their report will be handled confidentially"
+    }
+    
+]
