@@ -112,6 +112,7 @@ search_agent = Agent(
         "Use the WebsiteTools to retrieve data from job portals when a relevant URL is provided.",
         "For job searches, extract and format the information into structured results including: \n"
         "  - Job Title\n"
+        " - Company Name\n"
         "  - Application Deadline\n"
         "  - Key Requirements",
         "Use Google Search only when more detailed information is required or if no direct portal data is provided.",
